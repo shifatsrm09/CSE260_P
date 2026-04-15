@@ -1,0 +1,15 @@
+NOT GATE -> 2
+OR GATE  -> 8
+AND GATE -> 8
+
+Purchase List: 
+
+IC 74HC32 (OR Gate) -> 2
+IC 74HC08 (AND Gate)-> 2
+IC 7404 (NOT Gate) ->  1
+
+Toggle switch x4
+Jumper C. wires
+LED 20pc 
+Large Bread Board
+type C module

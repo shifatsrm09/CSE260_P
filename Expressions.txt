@@ -8,3 +8,4 @@ LED7 = A + BCD
 LED8 = A
 LED9 = A(C + D)
 LED10 = AB'CD'
+INVALID = A(B+C)
