@@ -13,3 +13,5 @@ Jumper C. wires
 LED 20pc 
 Large Bread Board
 type C module
+1 red led
+1 battery
