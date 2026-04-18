@@ -1,0 +1,15 @@
+LED1  = A + B + C + D
+LED2  = A + B + C
+LED3  = A + B + CD
+LED4  = A + B
+LED5  = A + B(C + D)
+LED6  = A + BC
+LED7  = A + BCD
+LED8  = A
+LED9  = A(C + D)
+LED10 = A(B' + C)
+LED11 = A(B + D)
+LED12 = AB
+LED13 = AB(C' + D)
+LED14 = ABC
+LED15 = ABCD
