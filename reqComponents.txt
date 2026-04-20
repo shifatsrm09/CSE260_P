@@ -16,3 +16,5 @@ type C module
 1 red led
 1 battery
 20x 220ohm resistor
+
+for 4bit components might differ
