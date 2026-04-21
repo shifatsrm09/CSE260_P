@@ -18,3 +18,5 @@ type C module
 20x 220ohm resistor
 
 for 4bit components might differ
+
+More jumper cables 
