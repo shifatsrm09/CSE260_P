@@ -19,4 +19,5 @@ type C module
 
 for 4bit components might differ
 1Mega ohm x4 Pull down Resistor
-More jumper cables 
+More jumper cables
+A BMS
